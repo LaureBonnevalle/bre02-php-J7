@@ -1,0 +1,16 @@
+<?php
+    <nav>
+        <ul>
+            <li>
+                <a href="index.php?route=home">Accueil</a>
+            </li>
+            <li>
+                <a href="index.php?route=inscription">Inscription</a>
+            </li>
+            <li>
+                <a href="index.php?route=connexion">Login</a>
+            </li>
+        </ul>
+    </nav>
+?>
+
